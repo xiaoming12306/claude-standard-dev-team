@@ -1,4 +1,4 @@
-﻿# kdiff3 ignore
+# kdiff3 ignore
 *.orig
 
 # maven ignore
@@ -36,3 +36,10 @@ Thumbs.db
 
 # pods ignore
 Pods/
+
+# additional ignores
+*.swp
+*.bak
+node_modules/
+.env
+.env.local

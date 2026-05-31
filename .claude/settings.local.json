@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.51cto.com)",
+      "WebFetch(domain:claude.com)",
+      "WebFetch(domain:cloud.tencent.com)"
+    ]
+  }
+}
